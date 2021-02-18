@@ -106,7 +106,6 @@ b {
   position: relative;
   border: 1px solid var(--thBorderColor);
   padding: 25px;
-  height: 100%;
   border-radius: 4px;
   background: #fff;
   -webkit-transition: all .25s cubic-bezier(0.645, 0.045, 0.355, 1);
